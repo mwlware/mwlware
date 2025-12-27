@@ -12,44 +12,32 @@
 
 ### 🚀 Perfil Profesional
 
-[cite_start]Soy un **Desarrollador Junior Full-Stack** enfocado en la construcción de soluciones de software escalables y eficientes[cite: 8, 11]. [cite_start]Mi especialidad es la **convergencia entre el desarrollo web moderno y la Inteligencia Artificial**, creando herramientas que automatizan procesos complejos y mejoran la gestión institucional mediante agentes inteligentes[cite: 8, 10].
+Soy un **Desarrollador Junior Full-Stack** enfocado en la construcción de soluciones de software escalables y eficientes. Mi especialidad es la **convergencia entre el desarrollo web moderno y la Inteligencia Artificial**, creando herramientas que automatizan procesos complejos y mejoran la gestión institucional mediante agentes inteligentes.
 
-* [cite_start]**Frontend & Backend:** Dominio de arquitecturas con React.js, Node.js y Vue.js[cite: 8, 16, 48].
-* [cite_start]**IA & Automatización:** Implementación de flujos lógicos en n8n integrados con APIs de OpenAI (LLMs)[cite: 8, 24, 52].
-* [cite_start]**Data-Driven Software:** Desarrollo de módulos de análisis de datos y visualización estratégica con Power BI y Python[cite: 9, 23].
+* **Frontend & Backend:** Dominio de arquitecturas con React.js, Node.js y Vue.js.
+* **IA & Automatización:** Implementación de flujos lógicos en n8n integrados con APIs de OpenAI (LLMs).
+* **Data-Driven Software:** Desarrollo de módulos de análisis de datos y visualización estratégica con Power BI y Python.
 
 ---
 
 ### 🤖 Especialización en IA y Proyectos de Software
 
-* [cite_start]**Agentes Inteligentes de Atención:** Desarrollo e integración de Chatbots con n8n y OpenAI para agendamiento y atención institucional automática[cite: 24, 36].
-* [cite_start]**Plataformas de Gestión Institucional:** Aplicación Full-Stack (React + Node + MySQL) para el seguimiento y descarga de estados electrónicos en PDF[cite: 28, 37].
-* [cite_start]**Experiencias Inmersivas:** Creación de videojuegos educativos 3D utilizando **Three.js** para el reporte y prevención de violencia escolar[cite: 29, 38].
+* **Agentes Inteligentes de Atención:** Desarrollo e integración de Chatbots con n8n y OpenAI para agendamiento y atención institucional automática.
+* **Plataformas de Gestión Institucional:** Aplicación Full-Stack (React + Node + MySQL) para el seguimiento y descarga de estados electrónicos en PDF.
+* **Experiencias Inmersivas:** Creación de videojuegos educativos 3D utilizando **Three.js** para el reporte y prevención de violencia escolar.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 💼 Experiencia Reciente
 
-| Capa | Tecnologías |
-| :--- | :--- |
-| **Desarrollo Web** | [cite_start]JavaScript (ES6+), React.js, Vue.js, Tailwind CSS, Node.js, Express.js[cite: 48, 50]. |
-| [cite_start]**IA & Workflow** | n8n, OpenAI API (LLMs), Automatización de procesos digitales[cite: 24, 52]. |
-| **Data & Core** | [cite_start]Python, MySQL, Power BI, Protocolos HTTP/TCP-IP[cite: 49, 51, 53, 54]. |
-| **DevOps & Tools** | [cite_start]Git, GitLab, GitHub, Vite, WordPress[cite: 11, 21, 23, 53]. |
+**Programador JR - Analista de Datos | Unidad para las Víctimas** *(Noviembre 2025 - Actualidad)*
+* Desarrollo de módulos internos con **Vue.js** y JavaScript.
+* Automatización de tareas operativas con **n8n**.
+* Análisis y normalización de bases de datos para tableros en **Power BI**.
 
----
-
-### 💼 Experiencia Relevante
-
-**Programador JR - Analista de Datos | [cite_start]Unidad para las Víctimas** *(Noviembre 2025 - Actualidad)* [cite: 14, 15]
-* Desarrollo de módulos de software interno utilizando **Vue.js** y JavaScript[cite: 16].
-* [cite_start]Automatización de tareas operativas y flujos de datos mediante **n8n**[cite: 19].
-* [cite_start]Análisis y normalización de bases de datos para optimización de procesos misionales[cite: 18].
-
-**Programador JR | [cite_start]Gobernación de Boyacá** *(Marzo 2025 - Actualidad)* [cite: 22]
-* [cite_start]Integración de Chatbots inteligentes con **OpenAI** para la mejora de procesos digitales[cite: 24].
-* [cite_start]Administración y mantenimiento de sitios web institucionales en **WordPress**[cite: 23].
-* [cite_start]Análisis de datos con **Python** y Power BI para informes estratégicos[cite: 23].
+**Programador JR - Analista de Datos | Gobernación de Boyacá** *(Marzo 2025 - Actualidad)*
+* Administración de sitios **WordPress** y visualización de datos con **Python**.
+* Integración de **Chatbots inteligentes** con OpenAI.
 
 ---
 
