@@ -18,7 +18,6 @@ Soy **Full-Stack Developer y Analista de Datos** con más de 2 años de experien
 
 Actualmente trabajo en la **Gobernación de Boyacá – Secretaría de Desarrollo Empresarial**, donde desarrollo pipelines de datos, dashboards en Power BI, sitios web institucionales con Astro + WordPress headless, y automatizaciones en Python para gestión de información empresarial departamental.
 
-Paralelamente, construyo **ProcuraBot**, una plataforma SaaS GovTech para monitoreo de SECOP II orientada a MiPymes colombianas.
 
 ---
 
