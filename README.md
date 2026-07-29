@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubicación-Tunja,_Boyacá,_Colombia-yellow?style=flat-square&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubicación-Colombia-yellow?style=flat-square&logo=googlemaps&logoColor=black" />
   <img src="https://img.shields.io/badge/CUN-Ingeniería_de_Sistemas_(10°_Semestre)-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Experiencia-+2_años_desarrollo_web-blue?style=flat-square" />
 </p>
